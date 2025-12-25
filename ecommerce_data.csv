@@ -1,0 +1,9 @@
+order_id,user_id,product,quantity,price,hour,review
+O001,U01,Laptop,1,60000,10,5
+O002,U02,Headphones,2,3000,14,4
+O003,U01,Mouse,1,800,21,5
+O004,U03,Laptop,1,60000,11,4
+O005,U04,Keyboard,1,1500,18,3
+O006,U02,Mouse,2,800,20,4
+O007,U05,Headphones,1,3000,9,5
+O008,U01,Laptop,1,60000,13,5
